@@ -5,7 +5,7 @@
 
 ## 100 DaysOfDSA
 
-- Array
+[✔️] Array
 
 
 
